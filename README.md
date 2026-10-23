@@ -19,3 +19,24 @@
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
+## 🚀 Proyectos destacados · Featured projects
+
+**GIA – Gestión Integral Automotriz** · Django · React · MySQL<br>
+Sistema de gestión para una concesionaria con varias sucursales. Mi aporte: frontend de Clientes y Stock de Vehículos, módulos de Documentación y Reportes, permisos por rol y pruebas automatizadas. *(Repositorio privado del equipo)*<br>
+*Management system for a multi-branch car dealership. Private team repository.*
+
+**[Sonidos de la Ciudad](https://github.com/msol1979/sonidos-de-la-ciudad)** · HTML · CSS · JavaScript · [Demo](https://msol1979.github.io/sonidos-de-la-ciudad/)<br>
+Sitio web de un festival de música, desarrollado en equipo de 3.<br>
+*Music festival website, built by a team of 3.*
+
+**[Hotel Ciudad](https://github.com/msol1979/hotel-ciudad)** · HTML · CSS · JavaScript · [Demo](https://msol1979.github.io/hotel-ciudad/)<br>
+Sistema de reservas con validaciones en tiempo real y cálculo del total.<br>
+*Hotel booking form with real-time validation.*
+
+**[FlickFlow](https://github.com/msol1979/flickflow)** · HTML · CSS · [Demo](https://msol1979.github.io/flickflow/)<br>
+Interfaz de una plataforma de streaming, con diseño adaptable.<br>
+*Responsive streaming platform interface.*
+
+**[Inventario](https://github.com/msol1979/inventario)** · Python · MySQL<br>
+CRUD de productos con base de datos.<br>
+*Product inventory CRUD with a database.*
