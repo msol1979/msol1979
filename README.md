@@ -17,13 +17,17 @@
 
 **Herramientas · Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
 ## 🚀 Proyectos destacados · Featured projects
 
 **GIA – Gestión Integral Automotriz** · Django · React · MySQL<br>
 Sistema de gestión para una concesionaria con varias sucursales. Mi aporte: frontend de Clientes y Stock de Vehículos, módulos de Documentación y Reportes, permisos por rol y pruebas automatizadas. *(Repositorio privado del equipo)*<br>
 *Management system for a multi-branch car dealership. Private team repository.*
+
+**[Portafolio SPA con Vue](https://github.com/msol1979/portafolio-vue)** · Vue 3 · JavaScript · CSS · [Demo](https://msol1979.github.io/portafolio-vue/)<br>
+SPA con componentes, filtro reactivo y formulario con validación en tiempo real.<br>
+*Single-page app built with Vue 3 components and reactive forms.*
 
 **[Sonidos de la Ciudad](https://github.com/msol1979/sonidos-de-la-ciudad)** · HTML · CSS · JavaScript · [Demo](https://msol1979.github.io/sonidos-de-la-ciudad/)<br>
 Sitio web de un festival de música, desarrollado en equipo de 3.<br>
