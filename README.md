@@ -45,4 +45,9 @@ CRUD de productos con base de datos.<br>
 
 - Aprendiendo Vue.js y profundizando en React y Django. · *Learning Vue.js and improving my React and Django skills.*
 - Cursando el último año: redes, ingeniería y gestión de proyectos de software. · *Final year: networking, software engineering and project management.*
-- Busco trabajo remoto como desarrolladora web junior. · *Open to remote part-time junior web developer roles.*
+- Busco trabajo remoto como desarrolladora web junior. · *Open to remote junior web developer roles.*
+
+## 📫 Contacto · Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-sol-martinezse)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desar.soft.sol@gmail.com)
