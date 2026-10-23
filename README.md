@@ -40,3 +40,9 @@ Interfaz de una plataforma de streaming, con diseño adaptable.<br>
 **[Inventario](https://github.com/msol1979/inventario)** · Python · MySQL<br>
 CRUD de productos con base de datos.<br>
 *Product inventory CRUD with a database.*
+
+## 🌱 Actualmente · Currently
+
+- Aprendiendo Vue.js y profundizando en React y Django. · *Learning Vue.js and improving my React and Django skills.*
+- Cursando el último año: redes, ingeniería y gestión de proyectos de software. · *Final year: networking, software engineering and project management.*
+- Busco trabajo remoto como desarrolladora web junior. · *Open to remote part-time junior web developer roles.*
